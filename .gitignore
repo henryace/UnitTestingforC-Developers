@@ -401,3 +401,9 @@ source-code-starter+(1)/source-code-starter/TestNinja/TestNinja/obj
 source-code-starter+(1)/source-code-starter/TestNinja/TestNinja.UnitTests/bin
 source-code-starter+(1)/source-code-starter/TestNinja/TestNinja.UnitTests/obj
 source-code-starter+(1)/source-code-starter/TestNinja/TestNinja/bin
+source-code-completed+(1)/source-code-completed/TestNinja/.vs/TestNinja/v17/.suo
+source-code-completed+(1)/source-code-completed/TestNinja/TestNinja/obj
+source-code-completed+(1)/source-code-completed/TestNinja/TestNinja.UnitTests/bin
+source-code-completed+(1)/source-code-completed/TestNinja/TestNinja.UnitTests/obj
+source-code-completed+(1)/source-code-completed/TestNinja/TestNinja/bin
+.gitignore.bak
