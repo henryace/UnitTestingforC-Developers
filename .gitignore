@@ -397,3 +397,7 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 source-code-starter+(1)/source-code-starter/TestNinja/.vs/TestNinja/v17/.suo
+source-code-starter+(1)/source-code-starter/TestNinja/TestNinja/obj
+source-code-starter+(1)/source-code-starter/TestNinja/TestNinja.UnitTests/bin
+source-code-starter+(1)/source-code-starter/TestNinja/TestNinja.UnitTests/obj
+source-code-starter+(1)/source-code-starter/TestNinja/TestNinja/bin
